@@ -3,7 +3,6 @@ missing
 Makefile.in 
 Makefile
 depcomp 
-COPYING 
 configure
 config.status 
 config.log 
