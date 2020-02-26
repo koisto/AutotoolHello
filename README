@@ -1,1 +1,22 @@
-Automake demo
+A simple project using autotools. 
+
+Basic steps are these:
+1 - Clone this repo.
+2 - The following files are needed before we start
+	src/hello.c
+	src/Makefile.am
+	configure.ac
+	Makefile.am
+	README
+	AUTHORS
+	ChangeLog
+	NEWS
+	COPYING
+	autogen.sh
+3 - Run $ autogen.sh
+4 - Run $ ./configure
+5 - Run $ make
+6 - To install run $ make install
+7 - To package for distribution run $ make dist
+ 
+
